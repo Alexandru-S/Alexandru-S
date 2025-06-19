@@ -19,7 +19,7 @@
 
 **<h3 align="left">Rapid Fire</h3>**
 
-- 💼 I'm currently working on: **💻 Developing a new e-commerce platform using React and Node.js**
+- 💼 I'm currently working on: **💻 Developing a new ci/cd platform using Postgres and Next.js**
 - 🌱 I'm currently learning: **📚 Minikube**
 - 💬 Ask me about: **💡 TypeScript, React, Node.js, Postgres, Docker and RESTful APIs**
 - ⚡ Fun fact: **🎢 I once debugged a issue in my sleep**
